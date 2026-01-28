@@ -49,19 +49,22 @@ core functionalities required for most embedded and robotics projects.
 
 ## Connections
 
-**LED	  Arduino Pin	    Connection Details**
-  LED1	D2	Anode → D2, Cathode → 220Ω → GND
-  LED2	D3	Anode → D3, Cathode → 220Ω → GND
-  LED3	D4	Anode → D4, Cathode → 220Ω → GND
-  LED4	D5	Anode → D5, Cathode → 220Ω → GND
-  LED5	D6	Anode → D6, Cathode → 220Ω → GND
-  LED6	D7	Anode → D7, Cathode → 220Ω → GND
-  LED7	D8	Anode → D8, Cathode → 220Ω → GND
-  LED8	D9	Anode → D9, Cathode → 220Ω → GND
-  LED9	D10	Anode → D10, Cathode → 220Ω → GND
-  LED10	D11	Anode → D11, Cathode → 220Ω → GND
-  LED11	D12	Anode → D12, Cathode → 220Ω → GND
-  LED12 D13 Anode → D13, Cathode → 220Ω → GND
+| LED   | Arduino Pin | Connection Details                     |
+|-------|-------------|----------------------------------------|
+| LED1  | D2          | Anode → D2, Cathode → 220Ω → GND        |
+| LED2  | D3          | Anode → D3, Cathode → 220Ω → GND        |
+| LED3  | D4          | Anode → D4, Cathode → 220Ω → GND        |
+| LED4  | D5          | Anode → D5, Cathode → 220Ω → GND        |
+| LED5  | D6          | Anode → D6, Cathode → 220Ω → GND        |
+| LED6  | D7          | Anode → D7, Cathode → 220Ω → GND        |
+| LED7  | D8          | Anode → D8, Cathode → 220Ω → GND        |
+| LED8  | D9          | Anode → D9, Cathode → 220Ω → GND        |
+| LED9  | D10         | Anode → D10, Cathode → 220Ω → GND       |
+| LED10 | D11         | Anode → D11, Cathode → 220Ω → GND       |
+| LED11 | D12         | Anode → D12, Cathode → 220Ω → GND       |
+| LED12 | D13         | Anode → D13, Cathode → 220Ω → GND       |
+
+---
 
 ## ✅ Expected Output
 
