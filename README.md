@@ -33,15 +33,9 @@ This repository helps you:
 
 ## 📂 Structure
 
-- Test-the-Module/
-├── Arduino/
-│ └── Arduino_UNO/
-│ ├── arduino_uno_test.ino
-│ └── README.md
-├── ESP32/ (coming soon)
-├── STM32/ (coming soon)
-├── LICENSE
-└── README.md
+- `Arduino/` → Arduino board & module tests
+- `ESP32/` → ESP32 board & module tests *(coming soon)*
+- `STM32/` → STM32 board & module tests *(coming soon)*
 
 Each module contains:
 - Test code
