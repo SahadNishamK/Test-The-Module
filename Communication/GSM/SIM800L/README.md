@@ -234,7 +234,7 @@ Used to test:
 2. Upload Code 2
 SMS is sent automatically once
 3. Open Serial Monitor
-4. Type: SEND
+4. Type: `SEND`
 
 ### ✅ Expected Output
 
@@ -261,8 +261,8 @@ Used to test:
 • const char callNumber[] = "+91XXXXXXXXXX";
 • Upload Code 3
 • SIM800L will call automatically
-• Open Serial Monitor and type to dial again: CALL 
-• To end the call: HANG
+• Open Serial Monitor and type to dial again: `CALL` 
+• To end the call: `HANG`
 
 ### ✅ Expected Output
 
@@ -305,7 +305,7 @@ Communication modules
 
 Embedded hardware
 
-🛠️ License
+### 🛠️ License
 
 Open-source.
 Free to use, modify, and share for learning and development.
