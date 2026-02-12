@@ -294,7 +294,7 @@ Never skip step 1.
 
 **📚 Part of the Series**
 
-Test the Module
+`TEST THE MODULE`
 A practical testing series for:
 
 Microcontrollers
